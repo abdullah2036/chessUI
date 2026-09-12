@@ -31,10 +31,11 @@ Open `index.html` in your browser.
 ## 🌐 Live Demo
 
 [Play Chess UI](https://chessresults.pageui.workers.dev/?utm_source=chatgpt.com#1434355)
+<img width="3549" height="1795" alt="Screenshot 2026-08-29 124158" src="https://github.com/user-attachments/assets/604e4468-bd9d-4fcf-b726-79ff1ea29efd" />
 
 ---
 
 Built by **Abdullah**.
 
-<img width="3549" height="1795" alt="Screenshot 2026-08-29 124158" src="https://github.com/user-attachments/assets/604e4468-bd9d-4fcf-b726-79ff1ea29efd" />
+
 
